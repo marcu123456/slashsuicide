@@ -1,0 +1,10 @@
+
+name: SlashSuicide
+main: main.Main
+version: 1.0
+author: marcu123456
+main:Main
+commands:
+  suicide:
+    description: This kills the sender.
+    usage: /suicide
